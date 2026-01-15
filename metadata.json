@@ -1,0 +1,8 @@
+{
+  "name": "Vidya Academy - AI Powered Learning",
+  "description": "A premium industry-level education platform featuring Vidya AI, an intelligent tutor that explains concepts step-by-step in Hindi and English.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
